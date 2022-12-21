@@ -15,7 +15,7 @@
 
 - MongoDb
 
-# Design Choices:
+## Design Choices:
 
 ### Why NoSQL in a database?
 
@@ -59,31 +59,6 @@
 
 ![Screen Shot 2022-12-01 at 1.20.13 PM](https://i.imgur.com/dk9zDgC.png)
 
-# Contribution
-
-Contribution in terms of component ownership
-
-### Shravani Parsi
-
-- Home page & Authentication
-- Arrival & Departures
-
-### Sakruthi Avirineni
-
-- Enable/Disable gates
-- Random gate assignment
-
-### Sujan Rao Chikkela
-
-- Add flight
-- Edit flight
-
-### Rajashekar Reddy Kommula
-
-- Assign baggage carousel
-- Admin login
-- sign up
-
 # Feature set
 
 ### Homepage
@@ -125,7 +100,7 @@ Contribution in terms of component ownership
 - should be able to assign baggage carousels
 - Baggage carousels could be assigned to multiple flights in case of same airline, if not should not display the occupied ones in the dropdown.
 
-# UI Wireframes
+## UI Wireframes
 
 ![UserView](https://i.imgur.com/Raegfvo.png)
 ![SignIn](https://i.imgur.com/a1V9aTM.png)
@@ -138,14 +113,14 @@ Contribution in terms of component ownership
 ![AirlineEmployeeDashboard](https://i.imgur.com/OVCxMDP.png)
 ![addFlight](https://i.imgur.com/iQDN44W.png)
 
-# Steps to run the application
+## Steps to run the application
 
 1. git clone [repo](git@github.com:gopinathsjsu/team-project-sprinters.git)
 2. Install dependencies for both frontend and backend npm install `npm install`
 3. Run backend - `npm run start`
    Run frontend - `npm run start`
 
-# Application screenshots
+## Application screenshots
 
 ## Homepage
 
@@ -173,7 +148,7 @@ Contribution in terms of component ownership
 
 <img width="1439" alt="Screen Shot 2022-11-30 at 5 57 20 PM" src="https://user-images.githubusercontent.com/31122229/204947515-ed629fdb-eed2-4428-bbf5-55aa4c1ac18a.png">
 
-# Deployement screenshots
+## Deployement screenshots
 
 ![Screen Shot 2022-12-01 at 4.18.41 PM](https://i.imgur.com/8OfHywx.png)
 
