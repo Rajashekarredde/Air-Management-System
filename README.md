@@ -1,6 +1,6 @@
-# Airport-Management-System
+## Airport-Management-System
 
-# Technology stack
+## Technology stack
 
 ## Frontend
 
