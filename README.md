@@ -1,13 +1,12 @@
-## Airport-Management-System
 
-## Technology stack
+## Tech stack
 
-## Frontend
+### Frontend
 
 - ReactJs
 - Bootstrap
 
-## Backend
+### Backend
 
 - NodeJs
 - ExpressJs
